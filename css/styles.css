@@ -1,0 +1,114 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.datos-header{
+    background-color: black;
+    color:white;
+}
+
+.menu-patitas{
+    color:white;
+}
+
+.fondo-naranja{
+    background-color: #F0A83E;
+}
+
+h1{
+    color: #3C2313;
+    text-align: center;
+    font-size: 35px;
+    margin: 0%;
+}
+
+h3{
+    
+}
+
+
+.banner{
+    background-image: url('/img/fondo.png');
+    width: 100%;
+    height: 818px;
+    text-align: center;
+    margin: 0%;
+}
+
+.banner button{
+    background-color: #F0A83E;
+    color: white;
+    font-size: larger;
+    
+    margin: 0%;
+}
+
+.productosDestacados{
+
+}
+
+.productosDestacados h2{
+    color:#3C2313;
+}
+
+.productosDestacados li{
+    display: inline;
+    margin-inline: 20px;
+}
+
+article{
+
+}
+
+h5{
+    color:#3C2313;
+
+}
+
+.productos img{
+    width: 265px;
+
+}
+
+.datos-footer{
+    background-color: #3C2313;
+}
+
+.datos-footer i{
+    background-color: #8A8787;
+    padding: 15px;
+    margin-left: 2px;
+    color: #8A8787;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    border-radius: 100%;
+    border: solid white;
+}
+
+.datos-footer p{
+    color: white;
+}
+
+.datos-footer h4{
+    color: #8A8787;
+}
+
+footer p{
+    color: white;
+}
+
+.derechos-reservados{
+    background-color: #F0A83E;
+    color: white;
+    margin: 0px 0px;
+}
+
+.derechos-reservados p{
+    margin: 0px 0px;
+}
+
+footer img{
+    width: 200px;
+}
+
